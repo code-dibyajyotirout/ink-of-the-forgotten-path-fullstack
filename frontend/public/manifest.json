@@ -1,0 +1,27 @@
+{
+  "name": "Ink of the Forgotten Path",
+  "short_name": "InkPath",
+  "description": "A browser-native, single-player Murim souls-like game. Low-poly ink wash aesthetic.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "1000x1000",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

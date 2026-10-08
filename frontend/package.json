@@ -1,0 +1,55 @@
+{
+  "name": "ink-of-the-forgotten-path-frontend",
+  "version": "0.1.0",
+  "description": "Browser-Native 3D Martial Arts Action Engine & Recruiter Evaluation Portal Frontend",
+  "license": "AGPL-3.0-only",
+  "author": "Dibyajyoti Rout <code.dibyajyotirout@gmail.com>",
+  "homepage": "https://github.com/code-dibyajyotirout/ink-of-the-forgotten-path-fullstack#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/code-dibyajyotirout/ink-of-the-forgotten-path-fullstack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/code-dibyajyotirout/ink-of-the-forgotten-path-fullstack/issues"
+  },
+  "keywords": [
+    "threejs",
+    "webgpu",
+    "martial-arts",
+    "browser-game",
+    "one-euro-filter",
+    "signal-processing",
+    "nextjs",
+    "game-engine",
+    "distributed-systems",
+    "typescript",
+    "biomechanics"
+  ],
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "howler": "^2.2.4",
+    "idb-keyval": "^6.3.0",
+    "immer": "^11.1.11",
+    "next": "16.2.10",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "three": "^0.185.1",
+    "zustand": "^5.0.14"
+  },
+  "devDependencies": {
+    "@types/howler": "^2.2.13",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/three": "^0.185.1",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.10",
+    "typescript": "^5"
+  }
+}

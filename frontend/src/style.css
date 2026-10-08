@@ -1,0 +1,20 @@
+@import "./ui/hud/HUD.css";
+
+/* Antigravity & Ink of the Forgotten Path - Core Design System Tokens */
+:root {
+  --ink-primary: #38bdf8;
+  --ink-bg-dark: #030712;
+  --ink-surface: #0f172a;
+  --ink-border: #1e293b;
+  --ink-text: #f8fafc;
+  --ink-text-muted: #94a3b8;
+  --ink-accent-red: #ef4444;
+  --ink-accent-gold: #f59e0b;
+  --ink-accent-emerald: #10b981;
+}
+
+.ink-portal-container {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  background-color: var(--ink-bg-dark);
+  color: var(--ink-text);
+}
