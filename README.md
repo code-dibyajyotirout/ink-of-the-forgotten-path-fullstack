@@ -22,9 +22,10 @@ The system combines client-side WebGPU/Three.js render loops, real-time biomecha
 
 ### Repository Links
 
+- Live Game Deployment: [ink-of-the-forgotten-path.animatrous.com](https://ink-of-the-forgotten-path.animatrous.com/)
 - Official NPM Package: [npmjs.com/package/ink-of-the-forgotten-path](https://www.npmjs.com/package/ink-of-the-forgotten-path)
 - NPM Library Repository: [github.com/code-dibyajyotirout/ink-of-the-forgotten-path-npm-package](https://github.com/code-dibyajyotirout/ink-of-the-forgotten-path-npm-package)
-- Standalone Frontend Repository: [github.com/contacthereforanyinfo/INK-OF-THE-FORGOTTEN-PATH](https://github.com/contacthereforanyinfo/INK-OF-THE-FORGOTTEN-PATH)
+- Standalone Frontend Repository: [github.com/code-dibyajyotirout/ink-of-the-forgotten-path](https://github.com/code-dibyajyotirout/ink-of-the-forgotten-path)
 
 ---
 
